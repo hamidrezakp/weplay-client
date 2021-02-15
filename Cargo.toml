@@ -1,0 +1,10 @@
+[package]
+name = "weplay-client"
+version = "0.1.0"
+authors = ["Hamid R. K. Pishghadam <hamidrkp@riseup.net>"]
+edition = "2018"
+
+[dependencies]
+warp = "0.2.5"
+serde = "1.0.119"
+
